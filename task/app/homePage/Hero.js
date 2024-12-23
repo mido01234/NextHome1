@@ -63,7 +63,7 @@ export default function Home() {
           </div>
         </section>
 
-        {/* About Section */}
+  
         <section className="" style={{ marginTop: "10vh" }}>
           <div className="text-center">
             <p className="text-8xl Jomhuria-regular text-purple-600">

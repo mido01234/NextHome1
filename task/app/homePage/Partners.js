@@ -18,7 +18,7 @@ export default function PartnersSlider() {
       <h2 className="text-center text-8xl Jomhuria-regular text-purple-600 mb-6">
         Our Partners
       </h2>
-      {/* Slider */}
+     
       <div className="flex justify-around overflow-x-scroll scrollbar-hide scroll-snap-x snap-mandatory gap-4 px-4">
         {partners.map((partner, index) => (
           <div
